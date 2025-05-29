@@ -1,0 +1,6 @@
+Model/whisper_golos.pt
+Audio/Input_audios/*
+Audio/Output_audios/*
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
