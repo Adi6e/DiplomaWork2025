@@ -1,0 +1,27 @@
+# Core libraries
+numpy>=1.21.0
+torch>=1.12.0
+
+# Whisper for speech recognition
+openai-whisper>=20230314
+
+# GUI libraries
+tkinter
+
+# Audio processing libraries
+pydub>=0.25.1
+pyaudio>=0.2.11
+
+# Natural language processing (Russian)
+natasha>=1.4.0
+
+# Standard library (included with Python, listed for reference)
+# os (built-in)
+# threading (built-in)
+# wave (built-in)
+# datetime (built-in)
+# pathlib (built-in)
+
+# Optional: Development and testing
+pytest>=7.0.0
+black>=22.0.0
